@@ -31,3 +31,5 @@ git branch
 
 # no branch testebyleo
 atualizacoes necessarias
+fazer atualizacoes pelo branch
+- https://www.youtube.com/watch?v=RGOj5yH7evk&t=2598s  (53 min)
