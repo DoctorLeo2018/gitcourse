@@ -3,3 +3,6 @@
 # teste de repositorio no VSCode
 
 # 1 alteracao.
+
+# 2 alteraçao
+alterando pelo VS Code
