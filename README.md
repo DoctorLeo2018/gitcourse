@@ -27,3 +27,7 @@ git remote add origin git@github.com:DoctorLeo2018/doxdoctor.git
 git push -u origin main
 
 ## branch (apos realizar branch)
+git branch 
+
+# no branch testebyleo
+atualizacoes necessarias
